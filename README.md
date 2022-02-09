@@ -7,7 +7,7 @@
 		<h2>@jacob</h2>
 			</header>
 <blockquote>
-	Hello My name is Jacob Lawson and i like to look at cheese <a href="https://www.youtube.com/watch?v=iik25wqIuFo" target"_blank">en.wikipedia.org/wiki/Cheese</a>.
+	Hello My name is Jacob Lawson and i like to look at cheese <a href="https://github.com/jacoblawson23/jacoblawson23/blob/main/README.md" target"_blank"> yourmom.com</a>.
 		</blockquote>
 		<hr />
 		<footer>
