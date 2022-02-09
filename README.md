@@ -7,7 +7,7 @@
 		<h2>@jacob</h2>
 			</header>
 <blockquote>
-	Hello My name is Jacob Lawson and i like to look at cheese <a href="https//un.wikipedia.org/wiki/cheese" target"_blank"> big ol' cheese link</a>.
+	Hello My name is Jacob Lawson and i like to look at cheese <a href="https://en.wikipedia.org/wiki/Cheese" target"_blank"> big ol' cheese link</a>.
 		</blockquote>
 		<hr />
 		<footer>
